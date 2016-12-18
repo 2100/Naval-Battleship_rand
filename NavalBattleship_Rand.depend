@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465471433 source:d:\navalbattleship_rand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
